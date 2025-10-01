@@ -8,12 +8,12 @@ Delulu Detector is a **Streamlit-based AI app** that helps individuals analyze t
 ## Features
 
 ![5](https://github.com/user-attachments/assets/e6bdb7db-54d7-4ded-9720-4a0a94ea2bbd)
-✅ **Real-Time Conversation Analysis** – Record a conversation for AI-driven analysis  
-✅ **Communication Styles Detection** – Identifies passive, passive-aggressive, aggressive, and assertive patterns  
-✅ **Sentiment Scoring** – Evaluates emotional tone throughout the conversation  
-✅ **Attachment Style Classification** – Determines secure, anxious, avoidant, or fearful attachment tendencies  
-✅ **Issue Detection** – Red flags (gaslighting, manipulation, etc.) and green flags (active listening, positive affirmations, etc.)<br>
-✅ **PDF Report Export** – Generates a PDF based on key discussion points and identified patterns for relationship counseling or for later review
+- **Real-Time Conversation Analysis** – Record a conversation for AI-driven analysis  -
+- **Communication Styles Detection** – Identifies passive, passive-aggressive, aggressive, and assertive patterns  
+- **Sentiment Scoring** – Evaluates emotional tone throughout the conversation  
+- **Attachment Style Classification** – Determines secure, anxious, avoidant, or fearful attachment tendencies  
+- **Issue Detection** – Red flags (gaslighting, manipulation, etc.) and green flags (active listening, positive affirmations, etc.)<br>
+- **PDF Report Export** – Generates a PDF based on key discussion points and identified patterns for relationship counseling or for later review
 
 ## How the App Works
 
